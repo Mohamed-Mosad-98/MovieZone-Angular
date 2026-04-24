@@ -1,0 +1,24 @@
+html, body {
+  background: #060709;
+  color: #edf1f8;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.card, .form-control, .form-select {
+  border-radius: 12px !important;
+}
+
+.skeleton {
+  animation: pulse 1.2s infinite ease-in-out;
+  background: linear-gradient(90deg, #151a22 25%, #1d2430 37%, #151a22 63%);
+  background-size: 400% 100%;
+}
+
+@keyframes pulse {
+  0% { background-position: 100% 50%; }
+  100% { background-position: 0 50%; }
+}
