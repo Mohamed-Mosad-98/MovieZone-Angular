@@ -241,19 +241,23 @@ http://localhost:4200/
 
 ### 🔹 Register Page
 
-<img width="1920" height="1080" alt="Register" src="https://github.com/user-attachments/assets/register-page" />
+<img width="1886" height="848" alt="register" src="https://github.com/user-attachments/assets/3b3ef066-d8eb-4193-bcf8-454adf6b68d2" />
+
 
 ### 🔹 Login Page
 
-<img width="1920" height="1080" alt="Login" src="https://github.com/user-attachments/assets/login-page" />
+<img width="1891" height="910" alt="login" src="https://github.com/user-attachments/assets/34b4fb99-4f97-455b-8962-546c24689136" />
+
 
 ### 🔹 Home Page
 
-<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/home-page" />
+<img width="1886" height="917" alt="home" src="https://github.com/user-attachments/assets/eff1e78b-9dd4-46ae-8fe3-6400c239545a" />
 
-### 🔹 Successful Login Toast
 
-<img width="1920" height="1080" alt="Toast" src="https://github.com/user-attachments/assets/login-toast" />
+### 🔹 Successful Login 
+
+<img width="1867" height="916" alt="suceful login" src="https://github.com/user-attachments/assets/7437fe7c-c84f-472f-a409-2585f2b4b633" />
+
 
 ---
 
